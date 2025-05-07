@@ -1,3 +1,13 @@
+
+<img width="444" alt="Screenshot 2025-05-07 at 14 01 52" src="https://github.com/user-attachments/assets/57fe66f4-fefb-4f7d-80c2-9fa55121be62" />
+
+
+
+
+
+
+
+
 # 📚 Personalized Study Buddy App
 
 Your AI-powered, personalized study companion designed to help you stay focused, organized, and efficient. Whether you're preparing for exams, learning a new skill, or managing a busy academic schedule, Study Buddy is here to guide you every step of the way.
